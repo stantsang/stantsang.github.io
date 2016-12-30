@@ -21,7 +21,6 @@ permalink: /about/
 
 * GitHub：[@mzlogin](https://github.com/stantsang)
 * 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@mzlogin](http://weibo.com/mzlogin)
 
 ## Skill Keywords
 
