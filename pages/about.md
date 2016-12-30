@@ -19,7 +19,7 @@ permalink: /about/
 
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/stantsang)
+* GitHub：[@stantsang](https://github.com/stantsang)
 * 博客：[{{ site.title }}]({{ site.url }})
 
 ## Skill Keywords
