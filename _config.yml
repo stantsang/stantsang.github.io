@@ -16,7 +16,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Stantsang
 location: Chengdu, China
 email: 279005224@qq.com
 
@@ -75,17 +75,17 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: stantsang/stantsang.github.io
 
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
-douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+github_username: stantsang
+douban_username: stantsang
+facebook_username: stantsang
+weibo_username: stantsang
+zhihu_username: stantsang
+twitter_username: stantsang
 
 # ---------------- #
 #      Comments    #
