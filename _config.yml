@@ -4,10 +4,10 @@
 baseurl:
 url: https://stantsang.github.io
 date_format: "ordinal"
-title: 星云志
-subtitle: "打码改变人生"
-description: "星云志的个人博客"
-keywords: 星云志, stantsang
+title: 知者
+subtitle: "知之者不如好之者，好之者不如乐之者"
+description: "知者个人博客"
+keywords: 知者, stantsang
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"

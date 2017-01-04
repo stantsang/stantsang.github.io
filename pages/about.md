@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Stantsang, 星云志
+description: 知之者不如好之者，好之者不如乐之者
+keywords: Stantsang, 知者
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是星云志，码而生，码而立。
+我是知者，知之者不如好之者，好之者不如乐之者。
 
 仰慕「优雅编码的艺术」。
 
